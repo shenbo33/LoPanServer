@@ -4,6 +4,13 @@
 luohaifang is my wife
 yi where is the words which i have modified last moment
 在家一行
+<<<<<<< Updated upstream
 good~ hahahhahahhahah~
 
 20:34分加...
+=======
+hahahhahahhahah~
+
+修改了个bUG
+
+>>>>>>> Stashed changes
